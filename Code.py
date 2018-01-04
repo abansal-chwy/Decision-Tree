@@ -1,3 +1,5 @@
+#implementing Decision tree algorithm for GINI,Information Gain and CART
+#without Scikit learn
 
 # coding: utf-8
 
